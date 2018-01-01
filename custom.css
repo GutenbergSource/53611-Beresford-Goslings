@@ -1,0 +1,34 @@
+
+.adTopLine, .adBottomLine {
+    font-size: large;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.adTitle {
+    font-size: x-large;
+}
+
+.adByline {
+    font-size: large;
+}
+
+.adPrice {
+    font-size: xx-large;
+    position: absolute;
+    right: 20%;
+}
+
+.adReview {
+    margin: 4ex 2em 4ex 2em;
+    font-size: small;
+}
+
+
+#ads {
+    margin: 10px 10px;
+    border: 2px solid black;
+    margin: 5em;
+    padding: 10px;
+}
